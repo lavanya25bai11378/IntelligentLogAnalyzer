@@ -1,0 +1,10 @@
+2026-09-12 10:00:01 | INFO | Authentication | User login successful
+2026-09-12 10:01:15 | INFO | Payment | Payment request received
+2026-09-12 10:02:10 | ERROR | Database | Database connection failed
+2026-09-12 10:02:20 | ERROR | Database | Database connection failed
+2026-09-12 10:02:30 | ERROR | Database | Database connection failed
+2026-09-12 10:03:05 | ERROR | Payment | Payment service failed
+2026-09-12 10:03:15 | ERROR | Payment | Payment service failed
+2026-09-12 10:03:25 | ERROR | Payment | Payment service failed
+2026-09-12 10:04:00 | INFO | Authentication | User login successful
+2026-09-12 10:04:30 | INFO | Payment | Payment request completed
