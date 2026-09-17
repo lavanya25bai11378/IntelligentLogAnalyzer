@@ -1,0 +1,17 @@
+LOG ANOMALY ANALYSIS REPORT
+==========================
+
+Total Incidents: 2
+
+Incident #1
+Type: Database Connectivity Failure
+Severity: CRITICAL
+Status: OPEN
+Related Events: 3
+--------------------------
+Incident #2
+Type: Repeated Service Error
+Severity: MEDIUM
+Status: OPEN
+Related Events: 3
+--------------------------
